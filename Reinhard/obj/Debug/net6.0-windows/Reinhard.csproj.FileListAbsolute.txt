@@ -17,3 +17,22 @@ E:\Program Code\Reinhard\obj\Debug\net6.0-windows\ref\Reinhard.dll
 E:\Program Code\Reinhard\obj\Debug\net6.0-windows\Reinhard.Properties.Resources.resources
 E:\Program Code\Reinhard\obj\Debug\net6.0-windows\Reinhard.Menu.resources
 E:\Program Code\Reinhard\obj\Debug\net6.0-windows\Reinhard.Form2.resources
+E:\Conane\Conane-in-C-Reinhard\Reinhard\bin\Debug\net6.0-windows\Reinhard.exe
+E:\Conane\Conane-in-C-Reinhard\Reinhard\bin\Debug\net6.0-windows\Reinhard.deps.json
+E:\Conane\Conane-in-C-Reinhard\Reinhard\bin\Debug\net6.0-windows\Reinhard.runtimeconfig.json
+E:\Conane\Conane-in-C-Reinhard\Reinhard\bin\Debug\net6.0-windows\Reinhard.dll
+E:\Conane\Conane-in-C-Reinhard\Reinhard\bin\Debug\net6.0-windows\Reinhard.pdb
+E:\Conane\Conane-in-C-Reinhard\Reinhard\obj\Debug\net6.0-windows\Reinhard.Form1.resources
+E:\Conane\Conane-in-C-Reinhard\Reinhard\obj\Debug\net6.0-windows\Reinhard.Form2.resources
+E:\Conane\Conane-in-C-Reinhard\Reinhard\obj\Debug\net6.0-windows\Reinhard.Menu.resources
+E:\Conane\Conane-in-C-Reinhard\Reinhard\obj\Debug\net6.0-windows\Reinhard.Properties.Resources.resources
+E:\Conane\Conane-in-C-Reinhard\Reinhard\obj\Debug\net6.0-windows\Reinhard.csproj.GenerateResource.cache
+E:\Conane\Conane-in-C-Reinhard\Reinhard\obj\Debug\net6.0-windows\Reinhard.GeneratedMSBuildEditorConfig.editorconfig
+E:\Conane\Conane-in-C-Reinhard\Reinhard\obj\Debug\net6.0-windows\Reinhard.AssemblyInfoInputs.cache
+E:\Conane\Conane-in-C-Reinhard\Reinhard\obj\Debug\net6.0-windows\Reinhard.AssemblyInfo.cs
+E:\Conane\Conane-in-C-Reinhard\Reinhard\obj\Debug\net6.0-windows\Reinhard.csproj.CoreCompileInputs.cache
+E:\Conane\Conane-in-C-Reinhard\Reinhard\obj\Debug\net6.0-windows\Reinhard.dll
+E:\Conane\Conane-in-C-Reinhard\Reinhard\obj\Debug\net6.0-windows\refint\Reinhard.dll
+E:\Conane\Conane-in-C-Reinhard\Reinhard\obj\Debug\net6.0-windows\Reinhard.pdb
+E:\Conane\Conane-in-C-Reinhard\Reinhard\obj\Debug\net6.0-windows\Reinhard.genruntimeconfig.cache
+E:\Conane\Conane-in-C-Reinhard\Reinhard\obj\Debug\net6.0-windows\ref\Reinhard.dll
